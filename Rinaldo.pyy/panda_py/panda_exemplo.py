@@ -11,3 +11,5 @@ ultimas = pd.DataFrame.tail(tabelaa)
 
 desc = pd.DataFrame.describe(tabelaa)
 print(desc)
+
+print("oi")
